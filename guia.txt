@@ -1,0 +1,11 @@
+Guia de desarrollo
+-crear un proyecto nodejs
+-configurar repo 
+-subir el repo a github
+-registrarse en una API
+-obtener la api key 
+-instalar dependencias (peticiones WEB)
+-Configuracion de obj en js para la peticion 
+-hacer la peticion
+-presentar resultados temperatura o un error
+
